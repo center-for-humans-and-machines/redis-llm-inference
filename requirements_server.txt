@@ -1,0 +1,5 @@
+fire
+torch
+redis
+transformers
+pydantic
