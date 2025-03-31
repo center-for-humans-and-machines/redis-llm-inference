@@ -11,6 +11,7 @@ from data_model import (
     GenerationArguments,
     BaseModelRequest,
     InstructModelRequest,
+    ValueModelRequestInstruct,
 )
 from typing import Optional
 from util import get_connection
@@ -23,6 +24,8 @@ def get_completions(
     gen_args: Optional[GenerationArguments] = None,
     verbose=True,
     instruct_format=False,
+    value_model=False,
+    assistant_response=None,
 ):
     r = get_connection()
     return_key = str(uuid.uuid4())
@@ -32,10 +35,22 @@ def get_completions(
     if verbose:
         print("subscribed to", return_key)
         print("pushing task to", queue_name)
-    if instruct_format:
+    if value_model:
+        assert instruct_format
+        assert assistant_response is not None
+        model_request = ValueModelRequestInstruct(
+            return_key=return_key,
+            messages=[
+                {"role": "user", "content": text},
+                {"role": "assistant", "content": assistant_response},
+            ],
+        )
+    elif instruct_format:
         model_request = InstructModelRequest(
             generation_args=(
-                gen_args.model_dump() if gen_args else GenerationArguments()
+                gen_args.model_dump()
+                if gen_args
+                else GenerationArguments(do_sample=True)
             ),
             messages=[{"role": "user", "content": text}],
             num_generations=n_generations,
@@ -57,7 +72,7 @@ def get_completions(
 
     for message in pubsub.listen():
         if message["type"] == "message":
-            response: list[str] = json.loads(message["data"])
+            response: list[str] | str = json.loads(message["data"])
             break
 
     pubsub.unsubscribe(return_key)
