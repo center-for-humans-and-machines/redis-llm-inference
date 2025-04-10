@@ -134,9 +134,9 @@ def queue_processing(
                 print("Got new task", data.return_key, data.messages[-1])
         print(tokenizer.decode(tok_text[0], skip_special_tokens=False))
 
-        if len(tok_text) > max_context_len - data.generation_args.max_new_tokens:
+        if tok_text.size(1) > max_context_len - data.generation_args.max_new_tokens:
             tok_text = tok_text[
-                -max_context_len + data.generation_args.max_new_tokens :
+                :, -max_context_len + data.generation_args.max_new_tokens :
             ]
         tok_text = tok_text.repeat(int(data.num_generations), 1)
 
