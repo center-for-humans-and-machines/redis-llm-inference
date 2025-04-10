@@ -30,6 +30,7 @@ class ModelRequest(BaseModel):
 
 class BaseModelRequest(ModelRequest):
     text: str
+    type: str = "base"
 
 
 class Message(BaseModel):
@@ -39,3 +40,19 @@ class Message(BaseModel):
 
 class InstructModelRequest(ModelRequest):
     messages: list[Message]
+    type: str = "instruct"
+
+
+class ValueModelRequest(BaseModel):
+    return_key: str
+    head_name: str = "value_head"
+
+
+class ValueModelRequestBase(ValueModelRequest):
+    text: str
+    type: str = "value_base"
+
+
+class ValueModelRequestInstruct(ValueModelRequest):
+    messages: list[Message]
+    type: str = "value_instruct"
