@@ -90,8 +90,6 @@ def serve_model(
             tokenize=True,
         ).to("cuda")
 
-        tokenized_input = tokenized_input.unsqueeze(0)
-
         # Generate output
         outputs = model.generate(
             input_ids=tokenized_input,
