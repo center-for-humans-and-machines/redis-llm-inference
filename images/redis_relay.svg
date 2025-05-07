@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="redis_relay.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="396.76207"
+     inkscape:cy="561.25984"
+     inkscape:window-width="2560"
+     inkscape:window-height="1340"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="413.1572"
+       y="585.85253"
+       width="154.11419"
+       height="69.952541"
+       id="rect2136" />
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-0-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-0-6-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9-0-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-0-6-2-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9-0-6-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-0-6-2-8-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9-0-6-7-0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.749466;stroke-dasharray:none;stroke-opacity:1"
+       id="rect113"
+       width="50.813297"
+       height="15.821084"
+       x="73.786148"
+       y="172.68976" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.665001;stroke-dasharray:none;stroke-opacity:1"
+       x="99.192795"
+       y="178.72052"
+       id="text954"><tspan
+         sodipodi:role="line"
+         id="tspan952"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665"
+         x="99.192795"
+         y="178.72052">LLM Deployed on</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665"
+         x="99.192795"
+         y="185.77608"
+         id="tspan1006">Raven Cluster</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.749466;stroke-dasharray:none;stroke-opacity:1"
+       id="rect113-3"
+       width="50.813297"
+       height="15.821084"
+       x="73.786148"
+       y="135.81779" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.665001;stroke-dasharray:none;stroke-opacity:1"
+       x="99.192802"
+       y="141.84856"
+       id="text954-6"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665"
+         x="99.192802"
+         y="141.84856"
+         id="tspan1006-5">Redis server with</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665"
+         x="99.192802"
+         y="148.90411"
+         id="tspan1073">task queue</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.777851;stroke-dasharray:none;stroke-opacity:1"
+       id="rect113-3-3"
+       width="54.833599"
+       height="15.792699"
+       x="72.065186"
+       y="102.57492" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.665001;stroke-dasharray:none;stroke-opacity:1"
+       x="99.192818"
+       y="108.59149"
+       id="text954-6-5"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665"
+         x="99.192818"
+         y="108.59149"
+         id="tspan1073-2">Fastapi Deployment</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665"
+         x="99.192818"
+         y="115.64704"
+         id="tspan1130">&quot;Redis-Relay&quot;</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.08821;stroke-dasharray:none;stroke-opacity:1"
+       id="rect113-3-3-9"
+       width="71.007179"
+       height="23.868902"
+       x="64.70137"
+       y="56.459412" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.665001;stroke-dasharray:none;stroke-opacity:1"
+       x="99.48201"
+       y="62.320808"
+       id="text954-6-5-1"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665"
+         x="99.48201"
+         y="62.320808"
+         id="tspan1130-7">LLM user</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665"
+         x="99.48201"
+         y="69.376358"
+         id="tspan1187">(local machine or</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665"
+         x="99.48201"
+         y="76.431908"
+         id="tspan1189">experiment deployment)</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.626561;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 90.51704,81.262901 v 18.4842"
+       id="path1245"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.566843;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-0)"
+       d="m 91.384615,118.62497 v 15.12862"
+       id="path1245-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.617203;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-0-6)"
+       d="m 91.673807,151.6415 v 17.93618"
+       id="path1245-3-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.617203;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-0-6-2)"
+       d="m 106.71179,171.54851 -10e-6,-17.9236"
+       id="path1245-3-6-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.617203;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-0-6-2-8)"
+       d="m 107.85171,135.70902 0.28918,-15.03168"
+       id="path1245-3-6-1-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.617203;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-0-6-2-8-2)"
+       d="m 109.87334,101.72855 -1e-5,-18.791182"
+       id="path1245-3-6-1-9-2"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2134"
+       style="font-size:21.3333px;text-align:center;white-space:pre;shape-inside:url(#rect2136);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.51339;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665001;stroke-dasharray:none;stroke-opacity:1"
+       x="120.01461"
+       y="160.79066"
+       id="text2178"><tspan
+         sodipodi:role="line"
+         id="tspan2176"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="120.01461"
+         y="160.79066">LLM response</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="120.01461"
+         y="165.20039"
+         id="tspan2180">(json)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665001;stroke-dasharray:none;stroke-opacity:1"
+       x="78.289841"
+       y="158.84349"
+       id="text2178-3"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="78.289841"
+         y="158.84349"
+         id="tspan2180-5">Process tasks</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="78.289841"
+         y="163.25322"
+         id="tspan2230">from queue</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665001;stroke-dasharray:none;stroke-opacity:1"
+       x="77.700874"
+       y="125.08919"
+       id="text2178-3-9"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="77.700874"
+         y="125.08919"
+         id="tspan2230-2">Insert new</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="77.700874"
+         y="129.49892"
+         id="tspan2280">task into queue</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665001;stroke-dasharray:none;stroke-opacity:1"
+       x="76.119186"
+       y="89.437454"
+       id="text2178-3-9-3"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="76.119186"
+         y="89.437454"
+         id="tspan2380">Create request</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="76.119186"
+         y="93.847176"
+         id="tspan2384">(json)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665001;stroke-dasharray:none;stroke-opacity:1"
+       x="124.57289"
+       y="90.03347"
+       id="text2178-3-9-3-2"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="124.57289"
+         y="90.03347"
+         id="tspan2384-3">Send LLM</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="124.57289"
+         y="94.443192"
+         id="tspan2434">response (json)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.665001;stroke-dasharray:none;stroke-opacity:1"
+       x="122.38987"
+       y="126.45401"
+       id="text2178-3-9-8"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="122.38987"
+         y="126.45401"
+         id="tspan2280-7">Read response</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.665"
+         x="122.38987"
+         y="130.86374"
+         id="tspan2330">from database</tspan></text>
+  </g>
+</svg>
